@@ -1,0 +1,10 @@
+.add_btn {
+  text-align: right;
+}
+.table_btn {
+  display: flex;
+  justify-content: space-evenly;
+}
+.table-res {
+  overflow: auto !important;
+}
